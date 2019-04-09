@@ -1,0 +1,15 @@
+.centrado
+{
+    display: flex;
+    justify-content: center
+}
+body{
+    background:radial-gradient(ellipse, white, #1162ac, black);
+    
+}
+.titulos{
+    font-size: 250%;
+}
+p{
+    font-size: 150%;
+}
